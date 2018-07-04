@@ -10,7 +10,7 @@ chmod +x ./ddg.sh
 ### Usage
 Run script with your request.
 ```bash
-./ddg.sh How to change default browser
+./ddg.sh How to use git
 ```
 
 ![Usage](https://raw.githubusercontent.com/igoose1/get-ddg/master/src/usage.gif)
@@ -19,7 +19,7 @@ Run script with your request.
 You can use duckduckgo bangs.
 It's a fast way to find information.
 
-For example `!yt dude perfect` will open YouTube channel "Dude Perfect".
+For example `!yt Dude Perfect` will open YouTube channel "Dude Perfect".
 
 More information:
 [DuckDuckGo !Bang](https://duckduckgo.com/bang)
