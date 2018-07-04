@@ -35,8 +35,8 @@ For fast execution add this line to your `.bashrc` file.
 ```bash
 alias ddg="/path/to/ddg.sh"
 ```
-And after it search is easier:
+And after it searching is easier:
 ```bash
-ddg How to Google here?!
+ddg How to Google here
 ```
 
