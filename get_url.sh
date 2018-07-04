@@ -1,5 +1,7 @@
 # !/bin/bash
-url = "https://duckduckgo.com/?t=palemoon&q="
-req = $1
-url += req
+url="https://duckduckgo.com/?t=palemoon&q="
+req=$*
+url+=$req
+
+xdg-open "$url"
 
