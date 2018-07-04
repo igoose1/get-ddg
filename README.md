@@ -1,5 +1,5 @@
 # Script to open duckduckgo.com
-Simple script that open duckduckgo.com in your browser with your request.
+Simple script that open [duckduckgo](https://duckduckgo.com) in your browser with your request.
 
 ### Preparing
 Get rights to execute script.
