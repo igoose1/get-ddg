@@ -2,7 +2,7 @@
 Simple script that opens [duckduckgo](https://duckduckgo.com) in your browser with your request.
 
 ### Preparing
-Get rights to execute script.
+Set rights to execute script.
 ```bash
 chmod +x ./ddg.sh
 ```
@@ -17,9 +17,9 @@ Run script with your request.
 
 #### Bang
 You can use duckduckgo bangs.
-It's a fast way to find information.
+It's a fast way to find information using different sources.
 
-For example `!yt Dude Perfect` will open YouTube channel "Dude Perfect".
+For example `!yt Dude Perfect` will open YouTube search "Dude Perfect".
 
 More information:
 [DuckDuckGo !Bang](https://duckduckgo.com/bang)
@@ -31,14 +31,12 @@ Use `\!` instead of `!`.
 ```
 
 #### Alias
-For fast execution add alias to your `.bashrc` file.
+For fast execution add this line to your `.bashrc` file.
 ```bash
 alias ddg="/path/to/ddg.sh"
 ```
-And after it you can use:
+And after it search is easier:
 ```bash
 ddg How to Google here?!
 ```
-
-
 
