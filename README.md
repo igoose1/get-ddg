@@ -15,7 +15,7 @@ Run script with your request.
 
 #### Bang
 You can use duckduckgo bangs.
-It's fast way to find information.
+It's a fast way to find information.
 
 For example `!yt dude perfect` will open YouTube channel "Dude Perfect".
 
