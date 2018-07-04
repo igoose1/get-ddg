@@ -13,6 +13,8 @@ Run script with your request.
 ./ddg.sh How to change default browser
 ```
 
+![Usage](https://raw.githubusercontent.com/igoose1/get-ddg/master/src/usage.gif)
+
 #### Bang
 You can use duckduckgo bangs.
 It's a fast way to find information.
