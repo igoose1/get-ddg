@@ -1,5 +1,5 @@
 # !/bin/bash
-url="https://duckduckgo.com/?t=palemoon&q="
+url="https://duckduckgo.com/?t=get-ddg&q="
 req=$*
 url+=$req
 
